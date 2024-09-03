@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Right now
+
+🔭 I'm working on:
+- [my IoT Development Framework](https://github.com/grzegorz-grzeda/g2labs-idf)
+
 <!--
 **grzegorz-grzeda/grzegorz-grzeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
