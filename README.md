@@ -3,6 +3,7 @@
 Right now
 
 🔭 I'm working on:
+- [A simple but usefull USB PD PSU](https://github.com/grzegorz-grzeda/usb-pd-psu)
 - [my IoT Development Framework](https://github.com/grzegorz-grzeda/g2labs-idf)
 
 <!--
